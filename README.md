@@ -1,7 +1,5 @@
 
-
-    JUPYTER
-    FAQ
+RECELL
 
 Supervised Learning - Foundations Project: ReCell
 Problem Statement
